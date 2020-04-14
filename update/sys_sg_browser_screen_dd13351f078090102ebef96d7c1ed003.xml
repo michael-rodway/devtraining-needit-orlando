@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My Dashboard Icon">4913f11f078090102ebef96d7c1ed0b6</icon>
+        <name>My Dashboard</name>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 17:53:43</sys_created_on>
+        <sys_id>dd13351f078090102ebef96d7c1ed003</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Dashboard</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_dd13351f078090102ebef96d7c1ed003</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 17:53:43</sys_updated_on>
+        <url>/$pa_dashboard.do?sysparm_dashboard=2d9719f08703230047d84c2c59cb0b5f&amp;sysparm_tab=bccbca788743230047d84c2c59cb0b5d&amp;sysparm_cancelable=true&amp;sysparm_editable=undefined&amp;sysparm_active_panel=false</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=dd13351f078090102ebef96d7c1ed003"/>
+</record_update>
