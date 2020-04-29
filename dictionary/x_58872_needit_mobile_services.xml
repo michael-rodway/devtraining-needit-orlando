@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Mobile Services" max_length="40" name="x_58872_needit_mobile_services" sizeclass="2" type="collection">
+        <element label="Icon" max_length="100" name="icon" type="icon"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>

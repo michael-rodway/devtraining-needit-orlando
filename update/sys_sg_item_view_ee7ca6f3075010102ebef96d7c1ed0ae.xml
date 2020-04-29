@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>image-42257,name-45538,short_description-45539</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":14,"Bottom":16},"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"Image","studio_template_field_id":"E1","Height":54,"Width":51,"Scaling":"Fit","CellId":"image","Id":42257},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E2","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":16},"CellId":"name","Id":45538},{"Type":"Text","Margin":{"Top":4},"studio_template_field_id":"E3","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":14},"CellId":"short_description","Id":45539},{"Type":"Text","Margin":{"Top":4},"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":45540}],"Id":12260}],"studio_card_id":"2a153b73071410102ebef96d7c1ed040","Id":28090}</item_view_json>
+        <name>Mobile Services - IT Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 21:36:05</sys_created_on>
+        <sys_id>ee7ca6f3075010102ebef96d7c1ed0ae</sys_id>
+        <sys_mod_count>31</sys_mod_count>
+        <sys_name>Mobile Services - IT Item View</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_view_ee7ca6f3075010102ebef96d7c1ed0ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 14:04:45</sys_updated_on>
+        <table>x_58872_needit_mobile_services</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=ee7ca6f3075010102ebef96d7c1ed0ae"/>
+</record_update>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sg_studio_layout_pattern">
+    <sg_studio_layout_pattern action="INSERT_OR_UPDATE">
+        <default>false</default>
+        <element_position>{&#13;
+  "elementsMapping":[&#13;
+    {&#13;
+      "top":55,&#13;
+      "right":270,&#13;
+      "propName":"E1"&#13;
+    },{&#13;
+      "top":27,&#13;
+      "left":270,&#13;
+      "propName":"E2"&#13;
+    },{&#13;
+      "top":50,&#13;
+      "left":270,&#13;
+      "propName":"E3"&#13;
+    },{&#13;
+      "top":76,&#13;
+      "left":270,&#13;
+      "propName":"E4"&#13;
+    }&#13;
+  ],&#13;
+  "image":{&#13;
+    "height":133,&#13;
+    "width":260&#13;
+  }&#13;
+}</element_position>
+        <json_template>{&#13;
+  "order": 1,&#13;
+  "class": "employee_directory HeaderCard",&#13;
+  "name": "employee-directory Header Layout",&#13;
+  "body": {&#13;
+  "Type": "ViewGroup",&#13;
+  "Margin": {&#13;
+    "Top": 14,&#13;
+    "Bottom": 16&#13;
+  },&#13;
+  "Orientation": "Horizontal",&#13;
+  "Alignment": "Stretch",&#13;
+  "Distribution": "Auto",&#13;
+  "Children": [&#13;
+    {&#13;
+      "Type": "Image",&#13;
+      "studio_template_field_id": "E1",&#13;
+      "Height": 54,&#13;
+      "Width": 51,&#13;
+      "Scaling": "Fit"&#13;
+    },&#13;
+    {&#13;
+      "Type": "ViewGroup",&#13;
+      "Margin": {&#13;
+       "Left": 10&#13;
+      },&#13;
+      "Orientation": "Vertical",&#13;
+      "Alignment": "Left",&#13;
+      "Distribution": "Auto",&#13;
+      "Children": [&#13;
+        {&#13;
+          "Type": "Text",&#13;
+          "Margin": {&#13;
+            "Left": 10&#13;
+          },&#13;
+          "studio_template_field_id": "E2",&#13;
+          "TextColor": "#333e3f",&#13;
+          "TextAlignment": "Left",&#13;
+          "MaxLines": 1,&#13;
+          "Font": {&#13;
+            "Weight": "bold",&#13;
+            "Size": 16&#13;
+          }&#13;
+        },&#13;
+        {&#13;
+          "Type": "Text",&#13;
+          "Margin": {&#13;
+            "Top": 1,&#13;
+            "Left": 10&#13;
+          },&#13;
+          "studio_template_field_id": "E3",&#13;
+          "TextColor": "#333e3f",&#13;
+          "TextAlignment": "Left",&#13;
+          "MaxLines": 1,&#13;
+          "Font": {&#13;
+            "Weight": "regular",&#13;
+            "Size": 14&#13;
+          }&#13;
+        },&#13;
+        {&#13;
+          "Type": "Text",&#13;
+          "Margin": {&#13;
+            "Top": 1,&#13;
+            "Left": 10&#13;
+          },&#13;
+          "studio_template_field_id": "E4",&#13;
+          "TextColor": "#7d8a8c",&#13;
+          "TextAlignment": "Left",&#13;
+          "MaxLines": 1,&#13;
+          "Font": {&#13;
+            "Weight": "regular",&#13;
+            "Size": 13&#13;
+          }&#13;
+        }&#13;
+      ]&#13;
+    }&#13;
+  ]&#13;
+}&#13;
+}</json_template>
+        <name>Left Image Listing</name>
+        <pattern_image>591e04cb9f20330071f65ecec32e701d</pattern_image>
+        <preview_image display_value="Employee Directory">5df645e523c12300a8ed7f4fc7bf65b6</preview_image>
+        <sn_sg_studio_body_detail_image/>
+        <sn_sg_studio_header_detail_image/>
+        <styled_field/>
+        <sys_class_name>sg_studio_layout_pattern</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 02:53:23</sys_created_on>
+        <sys_id>2a153b73071410102ebef96d7c1ed040</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Left Image Listing</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sg_studio_layout_pattern_2a153b73071410102ebef96d7c1ed040</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 03:29:04</sys_updated_on>
+        <type>master_detail</type>
+    </sg_studio_layout_pattern>
+</record_update>

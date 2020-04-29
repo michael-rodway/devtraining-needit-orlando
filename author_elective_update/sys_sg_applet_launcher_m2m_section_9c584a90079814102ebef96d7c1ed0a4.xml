@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="My APPOXIO">cc763ba70740d0102ebef96d7c1ed064</applet_launcher>
+        <order>70</order>
+        <section display_value="Popular Services">50584a90079814102ebef96d7c1ed0a2</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-16 21:59:21</sys_created_on>
+        <sys_id>9c584a90079814102ebef96d7c1ed0a4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_9c584a90079814102ebef96d7c1ed0a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 21:46:56</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3ce5f6d4dbc34c14387021c4059619cf</instance_id>
+        <instance_name>dev100833</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_9c584a90079814102ebef96d7c1ed0a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="My APPOXIO">cc763ba70740d0102ebef96d7c1ed064</applet_launcher><order>70</order><section display_value="Popular Services">50584a90079814102ebef96d7c1ed0a2</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-16 21:59:21</sys_created_on><sys_id>9c584a90079814102ebef96d7c1ed0a4</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_9c584a90079814102ebef96d7c1ed0a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 21:46:56</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-2031463718</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>21089fe30700d0102ebef96d7c1ed005</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 21:46:56</sys_created_on>
+        <sys_id>6dfe2e77075010102ebef96d7c1ed029</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171bd9b80330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 21:46:56</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>a5fe2e77b8501010c5c6e5bcda574f29</update_guid>
+        <update_guid_history>a5fe2e77b8501010c5c6e5bcda574f29:-2031463718,60ab6eb3bd501010690f77f348f7bb2a:-913283205,66f1eafbdd101010e1ac996987cd3c7d:204897308,18580e903f9814109f04ac9b5949536b:1323077821</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 22:03:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>360a3581bdfb49f68944c9a22ca0e869</sys_id>
+        <sys_metadata>9c584a90079814102ebef96d7c1ed0a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_9c584a90079814102ebef96d7c1ed0a4</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_9c584a90079814102ebef96d7c1ed0a4">6dfe2e77075010102ebef96d7c1ed029</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 22:03:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

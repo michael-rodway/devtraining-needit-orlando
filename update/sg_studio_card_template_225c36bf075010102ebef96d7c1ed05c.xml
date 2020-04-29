@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sg_studio_card_template">
+    <sg_studio_card_template action="INSERT_OR_UPDATE">
+        <name>2 Elements | Best For:Assets List View (Mike)</name>
+        <sys_class_name>sg_studio_card_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 22:45:26</sys_created_on>
+        <sys_id>225c36bf075010102ebef96d7c1ed05c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>2 Elements | Best For:Assets List View (Mike)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sg_studio_card_template_225c36bf075010102ebef96d7c1ed05c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 22:46:16</sys_updated_on>
+        <template_image>0d5deec0b78100108da985a9de11a97e</template_image>
+    </sg_studio_card_template>
+</record_update>

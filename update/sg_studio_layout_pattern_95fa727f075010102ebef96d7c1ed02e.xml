@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sg_studio_layout_pattern">
+    <sg_studio_layout_pattern action="INSERT_OR_UPDATE">
+        <default>false</default>
+        <element_position>{
+  "elementsMapping": [
+    {
+      "top": 58,
+      "right": 270,
+      "propName": "E1"
+    },
+    {
+      "top": 38,
+      "left": 270,
+      "propName": "E2"
+    }
+  ],
+  "image": {
+    "height": 133,
+    "width": 260
+  }
+} </element_position>
+        <json_template>{
+  "order": 5,
+  "class": "assetListView_Master",
+  "name": "Asset List View Master",
+  "body": {
+    "Type": "ViewGroup",
+    "Margin": {
+      "Top": 15,
+      "Bottom": 17
+    },
+    "Orientation": "Horizontal",
+    "Alignment": "Stretch",
+    "Distribution": "Auto",
+    "Children": [
+      {
+        "Type": "Image",
+        "CellId": "model.ref_aza`cmdb_hardware_product_model.picture",
+        "Height": 54,
+        "Width": 51,
+        "Scaling": "Fit",
+        "Id": 42257
+      },
+      {
+        "Type": "Text",
+        "Margin": {
+          "Left": 16
+        },
+        "Text": "PLACEHOLDER",
+        "CellId": "model",
+        "TextColor": "#333e3f",
+        "TextAlignment": "Left",
+        "MaxLines": 2,
+        "Font": {
+          "Weight": "regular",
+          "Size": 16
+        },
+        "Id": 22124
+      },
+      {
+        "Type": "Text",
+        "Margin": {},
+        "Width": 20,
+        "Text": "",
+        "TextColor": "#a7b0b2",
+        "TextAlignment": "Right",
+        "MaxLines": 1,
+        "Font": {
+          "Weight": "regular",
+          "Size": 14,
+          "Name": "icomoon"
+        },
+        "Id": 22125
+      }
+    ],
+    "Id": 28090
+  }
+}</json_template>
+        <name>Asset List View Master (new-mike)</name>
+        <pattern_image>11a1b43cb78500108da985a9de11a94e</pattern_image>
+        <preview_image display_value="2 Elements | Best For:Assets List View (Mike)">225c36bf075010102ebef96d7c1ed05c</preview_image>
+        <sn_sg_studio_body_detail_image/>
+        <sn_sg_studio_header_detail_image/>
+        <styled_field/>
+        <sys_class_name>sg_studio_layout_pattern</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 22:39:21</sys_created_on>
+        <sys_id>95fa727f075010102ebef96d7c1ed02e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Asset List View Master (new-mike)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sg_studio_layout_pattern_95fa727f075010102ebef96d7c1ed02e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 22:47:48</sys_updated_on>
+        <type>master_detail</type>
+    </sg_studio_layout_pattern>
+</record_update>
